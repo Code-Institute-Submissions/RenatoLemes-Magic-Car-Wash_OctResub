@@ -48,61 +48,30 @@ body {
 
 /* boxes */
 
-/* #main-box {
-    height: 400px;
-    text-align: center;
-    background-color: #0000ff;
-    display: inline-block; 
-} */
 
 #main-box {
-    height: 400px;
-    display: block;
+    height: 500px;
+    display: inline-block;
+    
 }
 
-#box-1 {
+#box1 {
     width: 50%;
     float: left;
 
 }
 
-#box-2 {
+#box2 {
     width: 50%;
     float: right;
 }
 
-.box-1 {
-    background: url("https://images.pexels.com/photos/7530997/pexels-photo-7530997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat;
-    background-size: cover;
-    height: 100%;
-    width: 50%;
-    background-color: red;
+
+.box2 {
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    font-size: 300%;  
+    background-color: pink;
 }
 
-.box-2 {
-    /* float: center; */
-    text-align: center;
-    font-size: 230%;  
-}
-
-/* #box-1{
-    background: url("https://images.pexels.com/photos/7530997/pexels-photo-7530997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat;
-    background-size: cover;
-    /* padding-top: 30px; */
-    /* height: 100%;
-    width: 50%;
-    float: left;} */
-
-/* #box-2 {
-    
-    height: 100%;
-    width: 50%;
-    float: left;
-    background-color: yellowgreen;} */
-
-
-/* .box-2 {
-    float: center;
-    text-align: center;
-    font-size: 230%;
-} */
