@@ -48,14 +48,17 @@ body {
 /* boxes */
 
 #box {
-    height: 500px;
+    height: 400px;
 }
 
 
 #box-1{
     padding-top: 20px;
     width: 50%;
+    height:100%;
     float: left;
+    background: url("https://images.pexels.com/photos/7530997/pexels-photo-7530997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat;
+    background-size: contain;
 }
 
 #box-2{
@@ -64,18 +67,8 @@ body {
     float: right;
 }
 
-.box-1 {
-    width: 50%;
-    float: left;
-    /* line-height: 20px; */
-    clear: both;
-    margin-bottom: 50px;
-}
-
 .box-2 {
-    width: 50%;
-    float: right;
-    /* line-height: 20px; */
-    clear: both;
-    margin-bottom: 50px;
+    float: center;
+    text-align: center;
+    font-size: 250%;
 }
