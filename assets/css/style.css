@@ -7,5 +7,31 @@
 }
 
 body {
-    background-color: red;
+    background-color: rgb(145, 141, 141);
+    font-family: ubuntu, sans-serif;
+}
+
+/* Nav linkss */
+
+#links {
+    background-color: white;
+    line-height: 60px;
+    text-align: center;
+}
+  
+#links li {
+    display: inline-block;
+}
+
+#links a {
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#links a:hover {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border: 1px black;
 }
