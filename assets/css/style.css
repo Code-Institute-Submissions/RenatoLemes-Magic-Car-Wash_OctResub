@@ -46,32 +46,40 @@ body {
 }
 
 
-/* boxes */
+/* main section */
 
-
-#main-box {
-    height: 500px;
+#main-section {
+    height: 505px;
+    margin: 0 200px 0 200px;
+    background-color: red;
     display: inline-block;
+    border: 2px solid black;
+}
+
+#main-picture {
+    width:50%;
+    float: left;
+}
+
+
+#main-picture img {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
     
 }
 
-#box1 {
-    width: 50%;
-    float: left;
-
-}
-
-#box2 {
-    width: 50%;
+#main-rext {
+    width:50%;
+    background-color: white;
     float: right;
 }
 
-
-.box2 {
-    width: 600px;
-    height: 500px;
+.main-text {
     text-align: center;
-    font-size: 300%;  
-    background-color: pink;
+    font-size: 300%;
+    margin: 60px 10px 0 0;
 }
+
+/* Services */
 
