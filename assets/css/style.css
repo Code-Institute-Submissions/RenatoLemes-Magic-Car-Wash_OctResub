@@ -62,7 +62,6 @@ body {
     float: left;
 }
 
-
 #main-picture img {
     height: 100%;
     width: 100%;
@@ -111,21 +110,18 @@ body {
     width: 33%;
     height: 100%;
     float: left;
-    /* background-color: red; */
 }
 
 #prod2 {
     width: 33%;
     height: 100%;
     float: left;
-    /* background-color: greenyellow; */
 }
 
 #prod3 {
     width: 33%;
     height: 100%;
     float: left;
-    /* background-color: blue; */
 }
 
 .prod {
@@ -227,4 +223,62 @@ footer {
     background-color: inherit;
     border: none;
     border-bottom: 2px solid black;
+}
+
+@media screen and (max-width: 800px){
+   
+    #main-section {
+        height: 600px;
+        margin: 0 10px;
+        display: block;
+        border: 2px solid black;
+        background-color: white;
+    }
+
+    #main-picture {
+        width:100%;
+    }
+    
+    .main-text {
+        text-align: center;
+        font-size: 200%;
+        line-height: 1.5em;
+    }
+
+    /*  */
+
+    #product-section {
+        height: 100%;
+        margin: 0;
+
+    }
+    
+    #prod1 {
+        width: 100%; 
+    }
+    
+    #prod2 {
+        width: 100%; 
+    }
+    
+    #prod3 {
+        width: 100%;
+    }
+
+    .open-hours {
+        width: 100%;
+        text-align: center;
+        vertical-align: center;
+        background-color: white;
+        font-size: 50%;
+    }
+
+    .media {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 50%;
+        margin-left: 40px;
+    }
+
 }
