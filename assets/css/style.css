@@ -200,15 +200,11 @@ footer {
 }
 
 #form {
-    height: 250px;
+    height: 300px;
     font-size: 200%;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
     display: block;
-}
-
-.form {
-    
 }
 
 .button {
@@ -216,10 +212,18 @@ footer {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 60%;
+    margin-top: 20px;
 }
 .button:hover {
     background-color: black;
     color: white;
     font-size: 30px;
     border: 1px black;
+}
+
+.inputbox {
+    width: 50%;
+    background-color: inherit;
+    border: none;
+    border-bottom: 2px solid black;
 }
