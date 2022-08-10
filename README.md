@@ -1,4 +1,4 @@
-<h1>Magic Car Wash</h1>
+# Magic Car Wash
 
 Magic Car Wash has been in the market since 2010, servicing all types of cars with great quality products.
 
