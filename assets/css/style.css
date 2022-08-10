@@ -11,7 +11,6 @@ body {
     font-family: ubuntu, sans-serif;
 }
 
-/* Nav linkss */
 
 #links {
     background-color: white;
@@ -37,7 +36,6 @@ body {
     border: 1px black;
 }
 
-/* main header */
 
 #main-header {
     line-height: 100px;
@@ -45,9 +43,6 @@ body {
     text-align: center;
     background-color: white;
 }
-
-
-/* main section */
 
 #main-section {
     height: 505px;
@@ -92,8 +87,6 @@ body {
     border: 1px white;
 }
 
-/* Services */
-
 .prod-title {
     text-align: center;
     font-size: 300%;
@@ -133,10 +126,7 @@ body {
 .prod p {
     line-height: 30px;
     margin-top: 10px;
-
 }
-
-/* Open hours and map */
 
 #busines-information {
     width: 100%;
@@ -175,8 +165,6 @@ body {
     width:100%;
     height: 250px;
 }
-
-/* Media */
 
 .media {
     margin: 0;
@@ -306,7 +294,6 @@ footer {
         background-color: white;
         font-size: 50%;
     }
-
 }
 
 @media only screen and (max-width: 800px){
