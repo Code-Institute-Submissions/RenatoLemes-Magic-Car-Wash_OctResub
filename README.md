@@ -16,6 +16,18 @@ This website allows the users to find simple informations about the business. Th
  2. Get a Quote - it brings to the form that the user should complete with all information
  3. Location - This link drive it straight to the map.
 
+- The main image and text, reassures the cosutmer the possibility to get a more accurate quote for the service they are lookin.
+![](/assets/img/getaquote.jpeg)
+
+- The menu shows briefly the services available
+![](/assets/img/services.jpeg)
+
+- Social media Icons helps the user to easily spot which social media he might be looking for
+![](/assets/img/socialmedia.jpeg)
+
+- The form requires name, email and some information so the user can get a more accurate quotation of the service required. All the correct information will allow the company to contact the costumer back in case if needed
+![](/assets/img/getaquote.jpeg)
+
  # Testing
 
 I tested all functionality of the website such as the links, buttons and forms. I opened the website in the Safari and Google Chrome, the website works fine all according to required. 
