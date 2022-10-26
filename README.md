@@ -1,8 +1,8 @@
 # Magic Car Wash
 
-Magic Car Wash has been in the market since 2010, servicing all types of cars with great quality products.
+Magic Car Wash has been on the market since 2010, servicing all types of cars with great quality products.
 
-This website allows the users to find simple informations about the business. There is a form that the costumer can contact us for more detailed information or specific service needed.
+This website allows the users to find simple informations about the business. There is a form that the costumer can contact the company for more detailed information or specific service needed.
 
 ![Screens_picture](/assets/img/webscreen.jpeg)
 
@@ -12,35 +12,33 @@ This website allows the users to find simple informations about the business. Th
 
 ![](/assets/img/links.jpeg)
 
- 1. Home - By clinking on, it brings back to home page
- 2. Get a Quote - it brings to the form that the user should complete with all information
- 3. Location - This link drive it straight to the map.
+ 1. Home - By clinking on the Home botton, it brings back to home page.
+ 2. Get a Quote - it brings to the form that the user should complete with all information.
+ 3. Location - This link will bring it straight to the map.
 
-##  The main image and text, reassures the cosutmer the possibility to get a more accurate quote for the service they are looking.
+### The main image and text, reassures the cosutmer the possibility to get a more accurate quote for the service that they are looking for.
 
 ![](/assets/img/maininfo.jpeg)
 
-## The menu shows briefly the services available.
+### The menu shows briefly the choices of services available.
 
 ![](/assets/img/services.jpeg)
 
-## Social media Icons helps the user to easily spot which social media he might be looking for.
+### Social media Icons helps the user to easily spot which social media he might be looking for.
 
 ![](/assets/img/socialmedia.jpeg)
 
-## The form requires name, email and some information so the user can get a more accurate quotation of the service required. All the correct information will allow the company to contact the costumer back in case if needed.
+### The form requires name, email and some information about the car. With all this information given the user can get a more accurate quotation of the service required. All the correct contact information is strictly needed.
 
 ![](/assets/img/getaquote.jpeg)
 
- # Testing
+# Testing
 
 I tested all functionality of the website such as the links, buttons and forms. I opened the website in the Safari and Google Chrome, the website works fine all according to required. 
 
-# Bugs
-
-When I tested the website on the "amiresposive" website it showed me that the main text was not centrilized on small screens, I solved the issue by dividing the space for the two divs (height:50%).
-
 # Validator Testing
+
+![](/assets/img/Accessibilityscore.png.jpeg)
 
 - HTML: No error returned when I run the website on the W3C validator
 
